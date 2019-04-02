@@ -1,2 +1,11 @@
 # node modules
 /node_modules
+
+# expo
+/.expo
+
+# vscode
+/.vscode
+
+# firebase
+firebase.js
